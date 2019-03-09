@@ -1,6 +1,6 @@
 # pwn_learning&&FUZZ
 
->This project is used to collect learning materials!
+>This project is used to collect learning materials!And I will synchronous update it on my blogs!
 
 ***
 
@@ -15,10 +15,8 @@
 * [pwntools:一个强大的pwn辅助库](http://docs.pwntools.com/en/stable/)
 * [ibc_database:收录了很多的libc库](https://github.com/niklasb/libc-database)
 * [one_gadget:用以寻找调用系统函数的gadget并输出满足条件](htts://github.com/david942j/one_gadget)
-* [libcSearch : 用以搜索libc的版本
-](https://github.com/lieanu/LibcSearcher)
-* [ROPgadget : 用于在程序中寻找我们所需要的东西
-](https://github.com/JonathanSalwan/ROPgadget)
+* [libcSearch : 用以搜索libc的版本](https://github.com/lieanu/LibcSearcher)
+* [ROPgadget : 用于在程序中寻找我们所需要的东西](https://github.com/JonathanSalwan/ROPgadget)
 * [angr:具有动静态分析的二进制分析工具](https://github.com/angr/angr.git)
 * [ollyDbg : 逆向破解利器](http://www.ollydbg.de/version2.html)
 * [radare2: 强大的逆向工程和二进制分析框架](https://github.com/radare/radare2.git)
